@@ -1,0 +1,154 @@
+body{
+    background-color: #F8EFBA;
+}
+
+header{
+    background-image: url('https://images.pexels.com/photos/386148/pexels-photo-386148.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260') ;
+    max-width: 100%;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+h1 {
+    background-color: #EAB543 ;
+    top: 370px;
+    position: relative;
+    height: 100px;
+    width: 900px;
+    opacity: 0.7;
+ 
+}
+
+#header{
+    top: 10px;
+    left: 20px;
+   position: relative;
+   font-size: 30px;
+   line-height: 1.4;
+   font-family: 'Roboto', sans-serif;
+   font-weight: bold;
+   
+
+}
+
+#section1{
+    margin-left: 40px;
+    margin-top: 40px;
+}
+
+#vacation{
+  width: 600px;
+  border: solid #EAB543 5px;
+  border-bottom: hidden;
+  border-left: hidden;
+  border-right: hidden;
+}
+
+h2{
+    font-family: 'Roboto', sans-serif;
+    padding-top: 10px;
+    font-size: 30px;
+    margin-bottom: 20px;
+
+}
+#paragraph1{
+    font-family: 'Roboto', sans-serif;
+}
+
+#offers{
+  width: 600px;
+  float: left;
+  margin-left: 670px;
+  margin-top: -483px;
+  border: solid #EAB543 5px;
+  border-bottom: hidden;
+  border-left: hidden;
+  border-right: hidden;
+}
+
+
+
+h3{
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    margin-left: 670px;
+    bottom: 65px;
+    position: relative;
+
+
+
+}
+
+#paragraph2{
+    font-family: 'Roboto', sans-serif;
+    margin-left: 670px;
+    bottom: 45px;
+    position: relative;
+}
+
+
+
+
+#section2{
+    margin-left: 40px;
+    margin-top: 40px;
+}
+
+#carRent{
+  width: 600px;
+  border: solid #EAB543 5px;
+  border-bottom: hidden;
+  border-left: hidden;
+  border-right: hidden;
+  margin-top: -30px;
+  
+}
+
+h4{
+    font-family: 'Roboto', sans-serif;
+    padding-top: 10px;
+    font-size: 30px;
+    margin-bottom: 20px;
+
+}
+#paragraph3{
+    font-family: 'Roboto', sans-serif;
+}
+
+#dreams{
+  width: 600px;
+  float: left;
+  margin-left: 670px;
+  margin-top: -484px;
+  border: solid #EAB543 5px;
+  border-bottom: hidden;
+  border-left: hidden;
+  border-right: hidden;
+}
+
+
+
+h5{
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    margin-left: 670px;
+    bottom: 65px;
+    position: relative;
+
+
+
+}
+
+#paragraph4{
+    font-family: 'Roboto', sans-serif;
+    margin-left: 670px;
+    bottom: 45px;
+    position: relative;
+}
+
+footer{
+    height: 50px;
+}
